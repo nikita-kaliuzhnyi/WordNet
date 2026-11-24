@@ -1,2 +1,7 @@
 # WordNet
-A Java-based word search engine that combines graph traversal algorithms with historical word frequency analysis to identify semantic relationships, process multiple-word queries, and rank results by popularity within user-specified time periods.
+Key features
+- Graph-based search: Identifies semantic relationships between words using directed graphs.
+- Multiple-word queries: Finds common hyponyms across multiple search terms.
+- Historical word analysis: Tracks word usage and frequency over specified time periods.
+- Popularity ranking: Returns the top K most frequently used words within a selected date range.
+- Data processing: Parses and organizes linguistic datasets using maps, sets, and time-series data structures.
